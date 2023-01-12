@@ -72,7 +72,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/openai.svg"></code>
 
 
-📊 **My recent programming status:**
+📊 **My recent programming stats:**
 <!--START_SECTION:waka-->
 [![NikolasSilvaLunkes's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolasSilvaLunkes)](https://github.com/NikolasSilvaLunkes/github-readme-stats)
 
