@@ -78,5 +78,5 @@
 
 <!--END_SECTION:waka-->
 
-**If you like this readme file, please give me star! ❤️**
+**If you like this readme file, please give me star! ⭐**
 
