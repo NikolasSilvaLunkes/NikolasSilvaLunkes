@@ -20,7 +20,7 @@
 - I dream about working with ai **I would love to work as a AI Scientist/Engineer🤖,**
 - And i also love **Programming and Coding**.
 - Also, i am very **Perfectionist**.
-- My personal website is <a href="http://nikolasilvalunkes.com">
+- My personal website is <a class="text-2xl" href="http://nikolasilvalunkes.com">
   nikolasilvalunkes.com
 </a>
 
