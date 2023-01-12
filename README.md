@@ -1,4 +1,3 @@
-[![NikolasSilvaLunkes's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolasSilvaLunkes)](https://github.com/NikolasSilvaLunkes/github-readme-stats)
 
 
 <a href="https://leetcode.com/Nikolas-Silva-Lunkes/">
@@ -38,7 +37,7 @@
 
 
 
-**Languages and Tools:**  
+**Languages and Tools that i know:**  
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
@@ -50,7 +49,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/rust.svg"></code>
 
 
-**Technology being learned**
+**Technology that i've learnt**
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudiocode.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
@@ -75,10 +74,7 @@
 
 📊 **My recent programming status:**
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
+[![NikolasSilvaLunkes's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolasSilvaLunkes)](https://github.com/NikolasSilvaLunkes/github-readme-stats)
 
 <!--END_SECTION:waka-->
 
