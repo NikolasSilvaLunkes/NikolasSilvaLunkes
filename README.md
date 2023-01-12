@@ -1,3 +1,5 @@
+[![NikolasSilvaLunkes's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolasSilvaLunkes)](https://github.com/NikolasSilvaLunkes/github-readme-stats)
+
 
 <a href="https://leetcode.com/Nikolas-Silva-Lunkes/">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
@@ -46,7 +48,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/postgresql.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/rust.svg"></code>
-[![NikolasSilvaLunkes's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolasSilvaLunkes)](https://github.com/NikolasSilvaLunkes/github-readme-stats)
+
 
 **Technology being learned**
 
