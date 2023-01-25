@@ -26,8 +26,8 @@
 
 
 **Talking about Personal Stuffs:**
-
-- 👨‍🏛 I am currently a student of **UNC**.
+- 🤵 I work at Arpa Sitemas
+- 👨 I am currently a student of **UNC**.
 - 💻 Major is **Software Engineeiring**.
 - 🌱 I'm currently learning **Web development with Rust, Python and React**. 
 - 🤔 My hobbies are **Videogames, also making indie games when im free**.
