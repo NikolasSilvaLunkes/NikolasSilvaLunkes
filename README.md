@@ -9,6 +9,9 @@
 <a href="https://www.google.com/search?q=nikolaslunkes%40gmail.com&oq=nikolaslunkes%40gmail.com&aqs=chrome..69i57j69i61j69i58.6661j0j7&sourceid=chrome&ie=UTF-8">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
+<a href="https://www.linkedin.com/in/nikolas-silva-lunkes-31ab321a2/">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
+</a>
 
 <br />
 <br />
@@ -26,8 +29,8 @@
 
 
 **Talking about Personal Stuffs:**
-- 🤵 I work at Arpa Sitemas
-- 👨 I am currently a student of **UNC**.
+
+- 👨‍🏛 I am currently a student of **UNC**.
 - 💻 Major is **Software Engineeiring**.
 - 🌱 I'm currently learning **Web development with Rust, Python and React**. 
 - 🤔 My hobbies are **Videogames, also making indie games when im free**.
@@ -58,7 +61,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/django.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/spring.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg">
 
 **Favorite sites**
 
@@ -79,4 +82,3 @@
 <!--END_SECTION:waka-->
 
 **If you like this readme file, please give me star! ⭐**
-
