@@ -16,27 +16,7 @@
 <br />
 <br />
 
-- I am a **Junior Programmer**, with interest in Data Science and Machine Learning 
-- I can make **Web Apps** with Python, Java, Node and Rust
-- I like to use a variety of useful **Programming Languages and Frameworks** and build  **Very nice Apps**
-- I also like **Studying** 
-- I dream about working with ai **I would love to work as a AI Scientist/Engineer🤖,**
-- And i also love **Programming and Coding**.
-- Also, i am very **Perfectionist**.
-- My personal website is <a class="text-2xl" href="http://nikolasilvalunkes.com">
-  nikolasilvalunkes.com
-</a>
-
-
-
-**Talking about Personal Stuffs:**
-
-- 👨‍🏛 I am currently a student of **UNC**.
-- 💻 Major is **Software Engineeiring**.
-- 🌱 I'm currently learning **Rust**. 
-- 🤔 My hobbies are **Videogames, also making indie games when im free**.
-- 💬 If you have any questions, **just ask me**.
-- This is my email: **nikolaslunkes@gmail.com**.
+- I like to code, im a software engineer
 
 
 
