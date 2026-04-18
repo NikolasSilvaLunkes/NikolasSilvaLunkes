@@ -1,16 +1,19 @@
 
 
 <a href="https://leetcode.com/Nikolas-Silva-Lunkes/">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" style="fill:#FFA116;" />
 </a>
+
 <a href="https://github.com/NikolasSilvaLunkes">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" style="fill:#181717;" />
 </a>
-<a href="https://www.google.com/search?q=nikolaslunkes%40gmail.com&oq=nikolaslunkes%40gmail.com&aqs=chrome..69i57j69i61j69i58.6661j0j7&sourceid=chrome&ie=UTF-8">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+
+<a href="mailto:nikolaslunkes@gmail.com">
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" style="fill:#EA4335;" />
 </a>
+
 <a href="https://www.linkedin.com/in/nikolas-silva-lunkes-31ab321a2/">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" style="fill:#0A66C2;" />
 </a>
 
 <br />
