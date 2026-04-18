@@ -1,15 +1,14 @@
 
-
 <a href="https://github.com/NikolasSilvaLunkes">
-  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" style="fill:#fff;" />
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg?color=ffffff" />
 </a>
 
 <a href="mailto:nikolaslunkes@gmail.com">
-  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" style="fill:#fff;" />
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg?color=ea4335" />
 </a>
 
 <a href="https://www.linkedin.com/in/nikolas-silva-lunkes-31ab321a2/">
-  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" style="fill:#fff;" />
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg?color=0a66c2" />
 </a>
 
 <br />
